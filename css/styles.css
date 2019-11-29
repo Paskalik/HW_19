@@ -1,0 +1,22 @@
+.row {
+	width: 90vw;
+}
+body {
+	padding-top: 82px;
+	padding-bottom: 50px;
+}
+li>img {
+	height: 10vh;
+}
+button>i {
+	min-width: 1vw;
+}
+i {
+	min-width: 3vw;
+}
+.fas {
+	line-height: 1.7;
+}
+footer img {
+	height: 12vh;
+}
